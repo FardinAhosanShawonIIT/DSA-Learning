@@ -1,0 +1,68 @@
+-------resource-------
+1.DSA-one course -The complete Data structure and Algorithms course
+https://www.youtube.com/watch?v=N89PN_uyelU&list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p&index=1
+2.Data structure and algorithms bootcamp in phython 
+https://drive.google.com/drive/folders/1fd70NNgTBRugqX73s4qvVR9RNPpF9qlH
+3.Github and litcode it club nstu
+https://drive.google.com/drive/folders/1yM5tJgBCr8ylvau8YsK4YcyDmEgGXXun
+
+
+---------discord----------
+https://discord.com/channels/1052243878134153316/1052243878134153318
+
+---------website------
+1.https://www.javatpoint.com/data-structure-tutorial
+2.https://www.geeksforgeeks.org/data-structures/
+3.https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm
+4.https://www.tutorialspoint.com/data_structures_algorithms/index.htm
+
+
+
+programing practice website:
+1.code forces
+surur dike 800 code suro kora
+
+language:c++
+
+algo:
+1.binary search 
+2.2 pointer method
+DP
+BFS/DFS
+
+--
+1.Question pore buja
+2.na parle manuser solution dekha
+3.contest sese tutorial dekhe na parle oita kora
+
+
+********github**********
+1.5 Github Hacks that you should know | for Coders
+5 Github Hacks that you should know | for Coders
+
+.. 
+1.1. Introduction to C++ | Data Structures and Algorithms | College Placement Course | Lecture 1
+https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&index=1
+
+-----Data structure and algorithm------
+1.Introduction to Data Structures & Algorithms:code with harry
+https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
+
+
+
+
+**plz start a separate playlist for DSA question and answer practice because on different coding 
+practice platforms there are so many questions that get really confused about which one to do and which one to not, 
+so plz start a playlist covering the most important questions on DSA, will be great if u do.
+
+1.Striver SDE Sheet Problems -180 problem practice
+https://www.codingninjas.com/codestudio/problem-lists/striver-sde-sheet-problems?practice_topic[]=Binary%20Trees
+
+2.second website
+https://workat.tech/problem-solving/topics/arrays/practice
+3.leet code
+https://leetcode.com/problemset/all/?page=2
+
+
+
+
